@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.vprokate59.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. vprokate59.ru</name>
+    <name>vprokate59.ru</name>
 
     <description>
         Прокат инструмента, товаров для отдыха, спорта и развлечений.
